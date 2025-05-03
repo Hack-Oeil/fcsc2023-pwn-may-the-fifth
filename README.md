@@ -29,12 +29,12 @@ Origine : [May the Fifth](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-m
 > http://localhost
 
 #### tentez 
-> nc may-the-fifth.cyrhades.fr:4000
+> nc may-the-fifth.cyrhades.fr 4000
 
 -----------
 
 ## Ou directement avec netcat
-> nc localhost:4000
+> nc localhost 4000
 
 
 -----------
