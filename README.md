@@ -16,7 +16,7 @@ Fichiers:
 
 
 
-Auteurs : cde et [Cryptanalyse](https://twitter.com/Cryptanalyse)
+Auteurs : cde et [Cryptanalyse](https://x.com/Cryptanalyse)
 
 
 Origine : [May the Fifth](https://hackropole.fr/fr/challenges/pwn/fcsc2023-pwn-may-the-fifth/)
